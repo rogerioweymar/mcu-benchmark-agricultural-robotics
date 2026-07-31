@@ -1,0 +1,137 @@
+# ========================
+# Arquivos de sistema
+# ========================
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+desktop.ini
+
+# ========================
+# IDEs e editores
+# ========================
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+*.code-workspace
+.project
+.cproject
+.settings/
+.classpath
+
+# ========================
+# PlatformIO
+# ========================
+.pio/
+.pioenvs/
+.piolibdeps/
+.clang_complete
+.gcc-flags.json
+
+# ========================
+# Arduino
+# ========================
+*.hex
+*.eep
+*.elf
+*.bin
+*.map
+*.lst
+*.lss
+*.sym
+*.d
+*.o
+*.a
+
+# ========================
+# ESP-IDF / ESP32
+# ========================
+build/
+sdkconfig
+sdkconfig.old
+dependencies.lock
+managed_components/
+.espressif/
+
+# ========================
+# STM32 / CubeIDE / Keil / IAR
+# ========================
+Debug/
+Release/
+*.o
+*.d
+*.crf
+*.dep
+*.uvguix.*
+*.uvoptx
+*.uvprojx
+*.scvd
+JLinkLog.txt
+*.launch
+
+# ========================
+# Compilação geral
+# ========================
+*.o
+*.obj
+*.elf
+*.bin
+*.hex
+*.map
+*.lst
+*.d
+*.su
+*.i
+*.s
+*.out
+*.a
+*.lib
+*.exe
+
+# ========================
+# Logs e temporários
+# ========================
+*.log
+*.tmp
+*.temp
+*.bak
+*~
+*.swp
+
+# ========================
+# Python (caso use scripts de análise)
+# ========================
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+.env
+.venv
+*.egg-info/
+dist/
+build/
+
+# ========================
+# Resultados muito grandes (opcional)
+# Descomente se quiser ignorar arquivos grandes de resultado
+# ========================
+# results/**/*.raw
+# results/**/*.bin
+# results/**/*.csv.gz
+
+# ========================
+# Outros
+# ========================
+*.zip
+*.rar
+*.7z
+*.tar
+*.gz
