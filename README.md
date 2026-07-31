@@ -1,2 +1,5 @@
-# mcu-benchmark-agricultural-robotics
-Benchmark de microcontroladores para seleção em sistema de robótica agrícola. Códigos, resultados e metodologia
+# MCU Benchmark - Agricultural Robotics
+
+Repositório de testes de microcontroladores para projeto de robótica agrícola.
+
+Este repositório está em desenvolvimento.
